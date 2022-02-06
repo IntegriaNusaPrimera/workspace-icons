@@ -1,6 +1,6 @@
 # workspace-icons
 Icons for workspace sidebar menu (copy the word and paste to the workspace setting).  
-It is taken from (this file) [https://github.com/frappe/frappe/public/icons/timeless/symbol-defs.svg]
+It is taken from https://github.com/frappe/frappe/blob/develop/frappe/public/icons/timeless/symbol-defs.svg
 
 ```
 resting
