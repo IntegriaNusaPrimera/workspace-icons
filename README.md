@@ -1,10 +1,10 @@
 # workspace-icons
 icons for workspace sidebar menu
 
-icon-resting
-icon-active
-icon-up-line
-icon-up
+icon-resting  
+icon-active  
+icon-up-line  
+icon-up  
 icon-select
 icon-down
 icon-both
