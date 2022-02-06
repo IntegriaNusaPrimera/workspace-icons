@@ -1,5 +1,5 @@
 # workspace-icons
-icons for workspace sidebar menu
+icons for workspace sidebar menu (copy the words after "icon-" and paste to the workspace setting)
 
 icon-resting  
 icon-active  
