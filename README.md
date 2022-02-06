@@ -1,6 +1,6 @@
 # workspace-icons
 icons for workspace sidebar menu (copy the word and paste to the workspace setting)
-
+```
 resting
 active
 up-line
@@ -154,4 +154,4 @@ arrow-right
 dialpad
 star
 map
-
+```
